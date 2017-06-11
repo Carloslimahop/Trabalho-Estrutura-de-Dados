@@ -1,4 +1,6 @@
-/* Alunos: Eduardo Gomes de Oliveira, Carlos Alberto Rocha Lima, José Roberto dos Santos Souza*/
+//Carlos Alberto Rocha Lima 2216202902
+//Eduardo Gomes de Oliveira 2216203383
+//JosÃ© Roberto dos Santos Souza 2216200353
 #include <stdio.h>
 
 int main(void)
