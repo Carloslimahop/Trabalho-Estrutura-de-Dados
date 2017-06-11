@@ -1,4 +1,6 @@
-/* Alunos: Eduardo Gomes de Oliveira, Carlos Alberto Rocha Lima, José Roberto dos Santos Souza*/
+//Carlos Alberto Rocha Lima 2216202902
+//Eduardo Gomes de Oliveira 2216203383
+//JosÃ© Roberto dos Santos Souza 2216200353
 
 #include<stdio.h>
 
@@ -24,7 +26,7 @@ int main()
         printf("Digite quantos minutos voce tem disponivel para caminhar:\n");
         scanf("%d", &m);
 
-        printf("Agora, digite a quantidade de dias da semana que você pretende realizar tal habito:\n");
+        printf("Agora, digite a quantidade de dias da semana que vocÃª pretende realizar tal habito:\n");
         scanf("%d", &d);
     }
 
