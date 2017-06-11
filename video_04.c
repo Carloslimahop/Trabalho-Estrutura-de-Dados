@@ -1,3 +1,7 @@
+//Carlos Alberto Rocha Lima 2216202902
+//Eduardo Gomes de Oliveira 2216203383
+//Jos√© Roberto dos Santos Souza 2216200353
+
 #include<stdio.h>
 #include<windows.h>
 
@@ -38,18 +42,18 @@ int main()
 
     printf("3-Principio -- Anote as ideias e Faca uma revisao.\nTer um caderno separado para anotar ideias e pensamentos.\n");
     printf("Caso tenha ideias, pare tudo e anote imediatamente.\n");
-    printf("Uma vez na semana faca uma revis„o.\nAgende os seus proximos 7 dias\n");
+    printf("Uma vez na semana faca uma revis√£o.\nAgende os seus proximos 7 dias\n");
     printf("------------------------------------------\n");
 
      Sleep(7000);
 
-     printf("4-Principio -- Crie um senso de urgencia(estabeleÁa um senso de urgencia,\n determine um prazo)\n");
+     printf("4-Principio -- Crie um senso de urgencia(estabele√ßa um senso de urgencia,\n determine um prazo)\n");
      printf("Isso aumenta o comprometimento e os resultados.\n");
      printf("------------------------------------------\n");
 
      Sleep(5000);
 
-     printf("5-Principio -- Adicione recompensas para tarefas compridas e consequencia para as tarefas n„o feitas.\n");
+     printf("5-Principio -- Adicione recompensas para tarefas compridas e consequencia para as tarefas n√£o feitas.\n");
      printf("------------------------------------------\n");
 
      Sleep(4000);
